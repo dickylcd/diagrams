@@ -1,9 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T05:20:03.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="KTD6bJwAXWajngCf-njY" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T05:33:44.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="DAfjbgNNI7lxxWYFnn9v" version="22.1.4" type="github">
   <diagram name="Page-1" id="-tcOxizWcSUugTWqxEtk">
     <mxGraphModel dx="1227" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="580" y="138" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1dPWuNNG_pj0zEwbM2dW-5">
+          <mxGeometry x="50" width="18" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;" vertex="1" parent="1dPWuNNG_pj0zEwbM2dW-5">
+          <mxGeometry width="40" height="28.4" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-4" value="Web Client / Mobile Apps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1dPWuNNG_pj0zEwbM2dW-5">
+          <mxGeometry y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="240" width="160" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-7" value="CRM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-8" value="Payment System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-9" value="......" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=40;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="399" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-10" value="Core Business Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-11" value="Internet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="600" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-12" value="API/Data Exchange Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="780" y="395" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-13" value="Authentication" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="320" y="245" width="600" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="600" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-15" value="User Engagement Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-16" value="Product Catalog" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-17" value="Intermediaries Portal" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-18" value="Customer Portal" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="309" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="360" width="290" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-21" value="......" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=40;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="740" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-22" value="Support Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="290" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-24" value="Core Business Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-25" value="Core Business Logic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-26" value="User Management" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="650" y="390" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-27" value="Logistic Management" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="740" y="390" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-28" value="SSO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="830" y="390" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-29" value="Event Tracking" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="650" y="430" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-30" value="Notification" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="740" y="430" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-31" value="Reporting" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="830" y="430" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dPWuNNG_pj0zEwbM2dW-32" value="Data Exchange Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="600" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
