@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T03:03:46.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AQWQ1K6fi45oKYtNFZMi" version="23.1.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-04T05:13:08.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GX4ITOn4gLW-e7CzVZ5o" version="23.1.7" type="github" pages="5">
   <diagram name="Page-1" id="FwJZfEj63_o7N4RfvILY">
     <mxGraphModel dx="1110" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1704,14 +1704,14 @@
         <mxCell id="dg4QVGPN3kDuv1tcSGJ_-141" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" parent="dg4QVGPN3kDuv1tcSGJ_-139" vertex="1">
           <mxGeometry y="1.5" width="24" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dg4QVGPN3kDuv1tcSGJ_-142" value="GW for IM System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="dg4QVGPN3kDuv1tcSGJ_-131" vertex="1">
+        <mxCell id="dg4QVGPN3kDuv1tcSGJ_-142" value="GW for Email System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="dg4QVGPN3kDuv1tcSGJ_-131" vertex="1">
           <mxGeometry x="4" y="146" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="dg4QVGPN3kDuv1tcSGJ_-143" value="GW for Mobile Restricted email system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="dg4QVGPN3kDuv1tcSGJ_-131" vertex="1">
+        <mxCell id="dg4QVGPN3kDuv1tcSGJ_-143" value="GW for Mobile Push Email System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="dg4QVGPN3kDuv1tcSGJ_-131" vertex="1">
           <mxGeometry x="66.25" y="148" width="50" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="dg4QVGPN3kDuv1tcSGJ_-144" value="GW for Mobile Confidential email system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="dg4QVGPN3kDuv1tcSGJ_-131" vertex="1">
-          <mxGeometry x="130.5" y="150" width="50" height="56" as="geometry" />
+        <mxCell id="dg4QVGPN3kDuv1tcSGJ_-144" value="GW for Internet Remote Access (OWA) users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="dg4QVGPN3kDuv1tcSGJ_-131" vertex="1">
+          <mxGeometry x="130.5" y="152" width="50" height="56" as="geometry" />
         </mxCell>
         <mxCell id="dg4QVGPN3kDuv1tcSGJ_-145" value="" style="group" parent="dg4QVGPN3kDuv1tcSGJ_-131" vertex="1" connectable="0">
           <mxGeometry x="17" y="20" width="37" height="53" as="geometry" />
@@ -1955,14 +1955,14 @@
         <mxCell id="dg4QVGPN3kDuv1tcSGJ_-115" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" parent="dg4QVGPN3kDuv1tcSGJ_-113" vertex="1">
           <mxGeometry y="1.5" width="24" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dg4QVGPN3kDuv1tcSGJ_-116" value="GW for IM System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="dg4QVGPN3kDuv1tcSGJ_-129" vertex="1">
+        <mxCell id="dg4QVGPN3kDuv1tcSGJ_-116" value="GW for Email System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="dg4QVGPN3kDuv1tcSGJ_-129" vertex="1">
           <mxGeometry x="4" y="146" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="dg4QVGPN3kDuv1tcSGJ_-117" value="GW for Mobile Restricted email system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="dg4QVGPN3kDuv1tcSGJ_-129" vertex="1">
+        <mxCell id="dg4QVGPN3kDuv1tcSGJ_-117" value="GW for Mobile Push Email System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="dg4QVGPN3kDuv1tcSGJ_-129" vertex="1">
           <mxGeometry x="66.25" y="148" width="50" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="dg4QVGPN3kDuv1tcSGJ_-118" value="GW for Mobile Confidential email system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="dg4QVGPN3kDuv1tcSGJ_-129" vertex="1">
-          <mxGeometry x="130.5" y="150" width="50" height="56" as="geometry" />
+        <mxCell id="dg4QVGPN3kDuv1tcSGJ_-118" value="GW for Internet Remote Access (OWA) users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="dg4QVGPN3kDuv1tcSGJ_-129" vertex="1">
+          <mxGeometry x="130.5" y="152" width="50" height="56" as="geometry" />
         </mxCell>
         <mxCell id="dg4QVGPN3kDuv1tcSGJ_-119" value="" style="group" parent="dg4QVGPN3kDuv1tcSGJ_-129" vertex="1" connectable="0">
           <mxGeometry x="17" y="20" width="37" height="53" as="geometry" />
